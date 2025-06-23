@@ -1,0 +1,10 @@
+C:\code\warmindosimulator1\WarmindoSimulator\WarmindoSimulator\obj\Debug\WarmindoSimulator.csproj.AssemblyReference.cache
+C:\code\warmindosimulator1\WarmindoSimulator\WarmindoSimulator\obj\Debug\WarmindoSimulator.Form1.resources
+C:\code\warmindosimulator1\WarmindoSimulator\WarmindoSimulator\obj\Debug\WarmindoSimulator.Properties.Resources.resources
+C:\code\warmindosimulator1\WarmindoSimulator\WarmindoSimulator\obj\Debug\WarmindoSimulator.csproj.GenerateResource.cache
+C:\code\warmindosimulator1\WarmindoSimulator\WarmindoSimulator\obj\Debug\WarmindoSimulator.csproj.CoreCompileInputs.cache
+C:\code\warmindosimulator1\WarmindoSimulator\WarmindoSimulator\bin\Debug\WarmindoSimulator.exe.config
+C:\code\warmindosimulator1\WarmindoSimulator\WarmindoSimulator\bin\Debug\WarmindoSimulator.exe
+C:\code\warmindosimulator1\WarmindoSimulator\WarmindoSimulator\bin\Debug\WarmindoSimulator.pdb
+C:\code\warmindosimulator1\WarmindoSimulator\WarmindoSimulator\obj\Debug\WarmindoSimulator.exe
+C:\code\warmindosimulator1\WarmindoSimulator\WarmindoSimulator\obj\Debug\WarmindoSimulator.pdb
